@@ -1,0 +1,2 @@
+# just-read-blog
+A blog is a type of website, usually maintained by an individual with regular entries of commentary, descriptions of events, or other material such as graphics or video. Entries are commonly displayed in reverse-chronological order. a website that contains online personal reflections, comments, and often hyperlinks, videos, and photographs provided by the writer also the contents of such a site.
